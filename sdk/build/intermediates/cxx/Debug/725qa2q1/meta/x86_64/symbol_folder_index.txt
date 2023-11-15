@@ -1,0 +1,1 @@
+/home/acenkz/AndroidStudioProjects/OpenCV2/sdk/build/intermediates/cxx/Debug/725qa2q1/obj/x86_64

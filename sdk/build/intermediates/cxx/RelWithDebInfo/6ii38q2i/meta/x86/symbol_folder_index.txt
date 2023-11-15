@@ -1,0 +1,1 @@
+/home/acenkz/AndroidStudioProjects/OpenCV2/sdk/build/intermediates/cxx/RelWithDebInfo/6ii38q2i/obj/x86
