@@ -22,7 +22,7 @@ import org.opencv.core.CvType;
 import org.opencv.core.Mat;
 import org.opencv.imgproc.Imgproc;
 
-public class MainActivity extends AppCompatActivity {
+public class OpenCV extends AppCompatActivity {
 
 
     private ImageView imageViewOriginal, imageViewConvolved;
@@ -39,7 +39,7 @@ public class MainActivity extends AppCompatActivity {
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
-        setContentView(R.layout.activity_main);
+        setContentView(R.layout.activity_opencv);
 
         imageViewOriginal = findViewById(R.id.imageViewOriginal);
         imageViewConvolved = findViewById(R.id.imageViewConvolved);
