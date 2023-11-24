@@ -125,7 +125,7 @@
         "rootBuildGradleFolder": "/home/acenkz/AndroidStudioProjects/OpenCV2",
         "sdkFolder": "/home/acenkz/Android/Sdk",
         "isBuildOnlyTargetAbiEnabled": true,
-        "ideBuildTargetAbi": "x86_64,x86",
+        "ideBuildTargetAbi": "x86_64,arm64-v8a",
         "isCmakeBuildCohabitationEnabled": false,
         "isPrefabEnabled": false
       },
