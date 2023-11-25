@@ -8,6 +8,7 @@
     android:padding="16dp"
     tools:context=".OpenCV">
 
+
     <ImageView
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
@@ -28,6 +29,5 @@
         android:layout_height="wrap_content"
         android:id="@+id/btnProcess"
         android:text="Process Image"/>
-
 
 </LinearLayout>

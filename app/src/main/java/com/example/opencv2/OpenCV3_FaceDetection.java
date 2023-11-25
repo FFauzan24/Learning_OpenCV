@@ -1,7 +1,6 @@
 package com.example.opencv2;
 
 import androidx.annotation.RequiresApi;
-import androidx.appcompat.app.AppCompatActivity;
 
 import android.Manifest;
 import android.content.pm.PackageManager;
@@ -20,7 +19,6 @@ import org.opencv.imgproc.Imgproc;
 import org.opencv.objdetect.CascadeClassifier;
 
 import java.io.File;
-import java.io.FileNotFoundException;
 import java.io.FileOutputStream;
 import java.io.IOException;
 import java.io.InputStream;
@@ -28,7 +26,7 @@ import java.util.Collections;
 import java.util.List;
 
 @RequiresApi(api = Build.VERSION_CODES.M)
-public class OpenCV3 extends CameraActivity {
+public class OpenCV3_FaceDetection extends CameraActivity {
 
     CameraBridgeViewBase cameraBridgeViewBase;
     CascadeClassifier cascadeClassifier;
@@ -37,7 +35,7 @@ public class OpenCV3 extends CameraActivity {
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
-        setContentView(R.layout.activity_open_cv3);
+        setContentView(R.layout.activity_open_cv3_face_detection);
         getPermission();
 
         cameraBridgeViewBase = findViewById(R.id.javaCameraView2);
