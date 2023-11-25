@@ -34,6 +34,7 @@ public class OpenCV2 extends AppCompatActivity {
     Mat mat;
 
 
+    @RequiresApi(api = Build.VERSION_CODES.M)
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);

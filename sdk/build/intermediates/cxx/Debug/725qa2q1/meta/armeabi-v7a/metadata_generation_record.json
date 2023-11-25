@@ -1,0 +1,184 @@
+[
+  {
+    "level_": 0,
+    "message_": "Start JSON generation. Platform version: 21 min SDK version: armeabi-v7a",
+    "file_": "/home/acenkz/AndroidStudioProjects/OpenCV2/sdk/libcxx_helper/CMakeLists.txt",
+    "tag_": "debug|armeabi-v7a",
+    "diagnosticCode_": 0,
+    "memoizedIsInitialized": 1,
+    "unknownFields": {
+      "fields": {},
+      "fieldsDescending": {}
+    },
+    "memoizedSize": -1,
+    "memoizedHashCode": -560191536
+  },
+  {
+    "level_": 0,
+    "message_": "rebuilding JSON /home/acenkz/AndroidStudioProjects/OpenCV2/sdk/.cxx/Debug/725qa2q1/armeabi-v7a/android_gradle_build.json due to:",
+    "file_": "/home/acenkz/AndroidStudioProjects/OpenCV2/sdk/libcxx_helper/CMakeLists.txt",
+    "tag_": "debug|armeabi-v7a",
+    "diagnosticCode_": 0,
+    "memoizedIsInitialized": 1,
+    "unknownFields": {
+      "fields": {},
+      "fieldsDescending": {}
+    },
+    "memoizedSize": -1,
+    "memoizedHashCode": -1672002367
+  },
+  {
+    "level_": 0,
+    "message_": "- expected json /home/acenkz/AndroidStudioProjects/OpenCV2/sdk/.cxx/Debug/725qa2q1/armeabi-v7a/android_gradle_build.json file is not present, will remove stale json folder",
+    "file_": "/home/acenkz/AndroidStudioProjects/OpenCV2/sdk/libcxx_helper/CMakeLists.txt",
+    "tag_": "debug|armeabi-v7a",
+    "diagnosticCode_": 0,
+    "memoizedIsInitialized": 1,
+    "unknownFields": {
+      "fields": {},
+      "fieldsDescending": {}
+    },
+    "memoizedSize": -1,
+    "memoizedHashCode": -377784281
+  },
+  {
+    "level_": 0,
+    "message_": "- missing previous command file /home/acenkz/AndroidStudioProjects/OpenCV2/sdk/.cxx/Debug/725qa2q1/armeabi-v7a/metadata_generation_command.txt, will remove stale json folder",
+    "file_": "/home/acenkz/AndroidStudioProjects/OpenCV2/sdk/libcxx_helper/CMakeLists.txt",
+    "tag_": "debug|armeabi-v7a",
+    "diagnosticCode_": 0,
+    "memoizedIsInitialized": 1,
+    "unknownFields": {
+      "fields": {},
+      "fieldsDescending": {}
+    },
+    "memoizedSize": -1,
+    "memoizedHashCode": -456481115
+  },
+  {
+    "level_": 0,
+    "message_": "- command changed from previous, will remove stale json folder",
+    "file_": "/home/acenkz/AndroidStudioProjects/OpenCV2/sdk/libcxx_helper/CMakeLists.txt",
+    "tag_": "debug|armeabi-v7a",
+    "diagnosticCode_": 0,
+    "memoizedIsInitialized": 1,
+    "unknownFields": {
+      "fields": {},
+      "fieldsDescending": {}
+    },
+    "memoizedSize": -1,
+    "memoizedHashCode": -1690310336
+  },
+  {
+    "level_": 0,
+    "message_": "removing stale contents from \u0027/home/acenkz/AndroidStudioProjects/OpenCV2/sdk/.cxx/Debug/725qa2q1/armeabi-v7a\u0027",
+    "file_": "/home/acenkz/AndroidStudioProjects/OpenCV2/sdk/libcxx_helper/CMakeLists.txt",
+    "tag_": "debug|armeabi-v7a",
+    "diagnosticCode_": 0,
+    "memoizedIsInitialized": 1,
+    "unknownFields": {
+      "fields": {},
+      "fieldsDescending": {}
+    },
+    "memoizedSize": -1,
+    "memoizedHashCode": -411334668
+  },
+  {
+    "level_": 0,
+    "message_": "created folder \u0027/home/acenkz/AndroidStudioProjects/OpenCV2/sdk/.cxx/Debug/725qa2q1/armeabi-v7a\u0027",
+    "file_": "/home/acenkz/AndroidStudioProjects/OpenCV2/sdk/libcxx_helper/CMakeLists.txt",
+    "tag_": "debug|armeabi-v7a",
+    "diagnosticCode_": 0,
+    "memoizedIsInitialized": 1,
+    "unknownFields": {
+      "fields": {},
+      "fieldsDescending": {}
+    },
+    "memoizedSize": -1,
+    "memoizedHashCode": 933681000
+  },
+  {
+    "level_": 0,
+    "message_": "executing cmake Executable : /home/acenkz/Android/Sdk/cmake/3.18.1/bin/cmake\narguments : \n-H/home/acenkz/AndroidStudioProjects/OpenCV2/sdk/libcxx_helper\n-DCMAKE_SYSTEM_NAME\u003dAndroid\n-DCMAKE_EXPORT_COMPILE_COMMANDS\u003dON\n-DCMAKE_SYSTEM_VERSION\u003d21\n-DANDROID_PLATFORM\u003dandroid-21\n-DANDROID_ABI\u003darmeabi-v7a\n-DCMAKE_ANDROID_ARCH_ABI\u003darmeabi-v7a\n-DANDROID_NDK\u003d/home/acenkz/Android/Sdk/ndk/21.4.7075529\n-DCMAKE_ANDROID_NDK\u003d/home/acenkz/Android/Sdk/ndk/21.4.7075529\n-DCMAKE_TOOLCHAIN_FILE\u003d/home/acenkz/Android/Sdk/ndk/21.4.7075529/build/cmake/android.toolchain.cmake\n-DCMAKE_MAKE_PROGRAM\u003d/home/acenkz/Android/Sdk/cmake/3.18.1/bin/ninja\n-DCMAKE_LIBRARY_OUTPUT_DIRECTORY\u003d/home/acenkz/AndroidStudioProjects/OpenCV2/sdk/build/intermediates/cxx/Debug/725qa2q1/obj/armeabi-v7a\n-DCMAKE_RUNTIME_OUTPUT_DIRECTORY\u003d/home/acenkz/AndroidStudioProjects/OpenCV2/sdk/build/intermediates/cxx/Debug/725qa2q1/obj/armeabi-v7a\n-DCMAKE_BUILD_TYPE\u003dDebug\n-B/home/acenkz/AndroidStudioProjects/OpenCV2/sdk/.cxx/Debug/725qa2q1/armeabi-v7a\n-GNinja\n-DANDROID_STL\u003dc++_shared\njvmArgs : \n\n",
+    "file_": "/home/acenkz/AndroidStudioProjects/OpenCV2/sdk/libcxx_helper/CMakeLists.txt",
+    "tag_": "debug|armeabi-v7a",
+    "diagnosticCode_": 0,
+    "memoizedIsInitialized": 1,
+    "unknownFields": {
+      "fields": {},
+      "fieldsDescending": {}
+    },
+    "memoizedSize": -1,
+    "memoizedHashCode": -1844916436
+  },
+  {
+    "level_": 0,
+    "message_": "Executable : /home/acenkz/Android/Sdk/cmake/3.18.1/bin/cmake\narguments : \n-H/home/acenkz/AndroidStudioProjects/OpenCV2/sdk/libcxx_helper\n-DCMAKE_SYSTEM_NAME\u003dAndroid\n-DCMAKE_EXPORT_COMPILE_COMMANDS\u003dON\n-DCMAKE_SYSTEM_VERSION\u003d21\n-DANDROID_PLATFORM\u003dandroid-21\n-DANDROID_ABI\u003darmeabi-v7a\n-DCMAKE_ANDROID_ARCH_ABI\u003darmeabi-v7a\n-DANDROID_NDK\u003d/home/acenkz/Android/Sdk/ndk/21.4.7075529\n-DCMAKE_ANDROID_NDK\u003d/home/acenkz/Android/Sdk/ndk/21.4.7075529\n-DCMAKE_TOOLCHAIN_FILE\u003d/home/acenkz/Android/Sdk/ndk/21.4.7075529/build/cmake/android.toolchain.cmake\n-DCMAKE_MAKE_PROGRAM\u003d/home/acenkz/Android/Sdk/cmake/3.18.1/bin/ninja\n-DCMAKE_LIBRARY_OUTPUT_DIRECTORY\u003d/home/acenkz/AndroidStudioProjects/OpenCV2/sdk/build/intermediates/cxx/Debug/725qa2q1/obj/armeabi-v7a\n-DCMAKE_RUNTIME_OUTPUT_DIRECTORY\u003d/home/acenkz/AndroidStudioProjects/OpenCV2/sdk/build/intermediates/cxx/Debug/725qa2q1/obj/armeabi-v7a\n-DCMAKE_BUILD_TYPE\u003dDebug\n-B/home/acenkz/AndroidStudioProjects/OpenCV2/sdk/.cxx/Debug/725qa2q1/armeabi-v7a\n-GNinja\n-DANDROID_STL\u003dc++_shared\njvmArgs : \n\n",
+    "file_": "/home/acenkz/AndroidStudioProjects/OpenCV2/sdk/libcxx_helper/CMakeLists.txt",
+    "tag_": "debug|armeabi-v7a",
+    "diagnosticCode_": 0,
+    "memoizedIsInitialized": 1,
+    "unknownFields": {
+      "fields": {},
+      "fieldsDescending": {}
+    },
+    "memoizedSize": -1,
+    "memoizedHashCode": 1758099883
+  },
+  {
+    "level_": 0,
+    "message_": "Exiting generation of /home/acenkz/AndroidStudioProjects/OpenCV2/sdk/.cxx/Debug/725qa2q1/armeabi-v7a/compile_commands.json.bin normally",
+    "file_": "/home/acenkz/AndroidStudioProjects/OpenCV2/sdk/libcxx_helper/CMakeLists.txt",
+    "tag_": "debug|armeabi-v7a",
+    "diagnosticCode_": 0,
+    "memoizedIsInitialized": 1,
+    "unknownFields": {
+      "fields": {},
+      "fieldsDescending": {}
+    },
+    "memoizedSize": -1,
+    "memoizedHashCode": -1672918259
+  },
+  {
+    "level_": 0,
+    "message_": "done executing cmake",
+    "file_": "/home/acenkz/AndroidStudioProjects/OpenCV2/sdk/libcxx_helper/CMakeLists.txt",
+    "tag_": "debug|armeabi-v7a",
+    "diagnosticCode_": 0,
+    "memoizedIsInitialized": 1,
+    "unknownFields": {
+      "fields": {},
+      "fieldsDescending": {}
+    },
+    "memoizedSize": -1,
+    "memoizedHashCode": -2002656587
+  },
+  {
+    "level_": 0,
+    "message_": "write command file /home/acenkz/AndroidStudioProjects/OpenCV2/sdk/.cxx/Debug/725qa2q1/armeabi-v7a/metadata_generation_command.txt",
+    "file_": "/home/acenkz/AndroidStudioProjects/OpenCV2/sdk/libcxx_helper/CMakeLists.txt",
+    "tag_": "debug|armeabi-v7a",
+    "diagnosticCode_": 0,
+    "memoizedIsInitialized": 1,
+    "unknownFields": {
+      "fields": {},
+      "fieldsDescending": {}
+    },
+    "memoizedSize": -1,
+    "memoizedHashCode": 2057229451
+  },
+  {
+    "level_": 0,
+    "message_": "JSON generation completed without problems",
+    "file_": "/home/acenkz/AndroidStudioProjects/OpenCV2/sdk/libcxx_helper/CMakeLists.txt",
+    "tag_": "debug|armeabi-v7a",
+    "diagnosticCode_": 0,
+    "memoizedIsInitialized": 1,
+    "unknownFields": {
+      "fields": {},
+      "fieldsDescending": {}
+    },
+    "memoizedSize": -1,
+    "memoizedHashCode": -64583503
+  }
+]
